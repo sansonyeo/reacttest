@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "reacttest": "^1.0.0",
+    "vue-moment": "^4.1.0"
+  }
+}
